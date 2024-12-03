@@ -1,1 +1,1 @@
-export const BACKEND_URI = "http://localhost:3000/api"
+export const BACKEND_URI = "https://next-b-gi3b.onrender.com"
